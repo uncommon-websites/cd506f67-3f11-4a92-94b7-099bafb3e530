@@ -7,23 +7,28 @@
     <!-- Logo -->
     <a href="/" class="flex items-center gap-2 text-2xl font-bold tracking-tight text-black">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-6 h-6">
-        <path d="M12 2L14.5 9.5H22L16 14L18.5 21.5L12 17L5.5 21.5L8 14L2 9.5H9.5L12 2Z" fill="black"/>
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M9.61185 4.17065C8.2158 4.17065 6.92581 4.91543 6.22779 6.12444L3.72109 10.4662C3.02307 11.6752 3.02307 13.1647 3.72109 14.3737L6.22779 18.7155C6.92581 19.9245 8.2158 20.6693 9.61185 20.6693H14.6252C16.0213 20.6693 17.3113 19.9245 18.0093 18.7155L20.516 14.3737C21.214 13.1647 21.214 11.6752 20.516 10.4662L18.0093 6.12444C17.3113 4.91543 16.0213 4.17065 14.6252 4.17065H9.61185ZM14.6252 6.77569H11.4919C10.9905 6.77569 10.6773 7.31837 10.9283 7.75232C11.7029 9.09123 12.4793 10.4291 13.2527 11.7687C13.4854 12.1717 13.4854 12.6682 13.2527 13.0712C12.4793 14.4108 11.7029 15.7487 10.9283 17.0876C10.6773 17.5215 10.9905 18.0642 11.4919 18.0642H14.6252C15.0906 18.0642 15.5206 17.8159 15.7533 17.4129L18.26 13.0712C18.4927 12.6682 18.4927 12.1717 18.26 11.7687L15.7533 7.42695C15.5206 7.02395 15.0906 6.77569 14.6252 6.77569Z"
+          fill="currentColor"
+        />
       </svg>
-      lightspark
+      Select
     </a>
 
     <!-- Nav Links -->
     <nav class="hidden md:flex items-center gap-8">
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Solutions</a>
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Industries</a>
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Company</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Personal</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Business</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">About</a>
     </nav>
 
     <!-- Right Actions -->
     <div class="flex items-center gap-6">
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">View Docs</a>
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Log in</a>
-      <a href="#" class="text-sm font-medium text-black hover:text-gray-600 transition-colors">Contact</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Support</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Sign in</a>
+      <a href="#" class="text-sm font-medium text-black hover:text-gray-600 transition-colors">Get Started</a>
     </div>
   </div>
 </header>

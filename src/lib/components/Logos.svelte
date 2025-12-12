@@ -1,31 +1,18 @@
-<section class="py-12 border-b border-gray-100">
+<section class="py-16 border-b border-gray-100">
   <div class="max-w-7xl mx-auto px-6">
-    <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 md:gap-12 opacity-80 grayscale hover:grayscale-0 transition-all duration-500">
-      <!-- Bitso -->
-      <span class="text-xl font-bold flex items-center gap-1"><span class="text-2xl">b</span> Bitso</span>
-      
-      <!-- BlockBee -->
-      <span class="text-xl font-bold flex items-center gap-1">
-        <div class="w-4 h-4 bg-black rotate-45"></div> BlockBee
-      </span>
-
-      <!-- SoFi -->
-      <span class="text-xl font-bold tracking-tighter">SoFi</span>
-
-      <!-- Xapo Bank -->
-      <span class="text-lg font-semibold tracking-widest uppercase">XAPO BANK</span>
-
-      <!-- Revolut -->
-      <span class="text-xl font-bold">Revolut</span>
-
-      <!-- Coinbase -->
-      <span class="text-xl font-bold">coinbase</span>
-
-      <!-- nu -->
-      <span class="text-2xl font-bold italic text-black">nu</span>
-
-      <!-- coins.ph -->
-      <span class="text-xl font-medium text-black">coins.ph</span>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+      <div>
+        <div class="text-4xl font-semibold text-black mb-2">$50B+</div>
+        <div class="text-sm text-gray-500">Target Market Size</div>
+      </div>
+      <div>
+        <div class="text-4xl font-semibold text-black mb-2">10K+</div>
+        <div class="text-sm text-gray-500">Target Accounts</div>
+      </div>
+      <div>
+        <div class="text-4xl font-semibold text-black mb-2">24/7</div>
+        <div class="text-sm text-gray-500">Global Banking Access</div>
+      </div>
     </div>
   </div>
 </section>
