@@ -2,26 +2,26 @@
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
     <div>
       <h2 class="text-4xl md:text-5xl font-medium tracking-tight leading-[1.1] max-w-md">
-        Banking designed for the way you work and live.
+        Stablecoin infrastructure for global operations.
       </h2>
     </div>
     <div class="space-y-12">
       <div>
-        <h3 class="text-xl font-medium mb-3">Zero Fees.</h3>
+        <h3 class="text-xl font-medium mb-3">Institutional-grade FX rates.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          No wire transfer fees. No foreign exchange markups. No monthly maintenance charges. Keep more of your money with transparent, fee-free banking powered by stablecoin infrastructure.
+          On/off-ramp instantly between fiat and stablecoins at institutional-grade foreign exchange rates. No hidden markups, no traditional banking spreads.
         </p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-3">Global Access.</h3>
+        <h3 class="text-xl font-medium mb-3">Licensed infrastructure.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Bank anywhere, anytime. Send and receive money across borders instantly. Access your funds 24/7 without geographic restrictions or traditional banking hours.
+          Powered by MoonPay's global licenses, allowing you to transact across the globe, including in the most demanding jurisdictions like the EU and USA.
         </p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-3">Premium Service.</h3>
+        <h3 class="text-xl font-medium mb-3">Local payment rails.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Dedicated relationship managers for high-net-worth clients. Priority support. Exclusive access to investment opportunities. Banking that matches your ambitions.
+          Pay suppliers around the world using their local payment rails. Eliminate the friction of traditional cross-border payments and currency conversions.
         </p>
       </div>
     </div>

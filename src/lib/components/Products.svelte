@@ -6,9 +6,9 @@
   <!-- Premium Accounts Section -->
   <section class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
     <div>
-      <h3 class="text-4xl font-medium mb-6">Premium Accounts</h3>
+      <h3 class="text-4xl font-medium mb-6">Named virtual accounts</h3>
       <p class="text-xl text-gray-600 mb-8 leading-relaxed">
-        <strong class="text-black">Banking without boundaries.</strong> Multi-currency accounts with instant access to global markets. Hold, transfer, and manage funds in USD, EUR, GBP, and stablecoins—all from one platform.
+        <strong class="text-black">Receive fiat payments seamlessly.</strong> Open named virtual bank accounts to receive EUR, USD, and GBP. Your clients pay you just like any traditional bank account, while you benefit from stablecoin infrastructure.
       </p>
       <div class="flex flex-col gap-2">
         <a href="#" class="group inline-flex items-center text-black font-medium hover:opacity-70 transition-opacity">
@@ -54,12 +54,12 @@
     </div>
   </section>
 
-  <!-- Global Transfers Section -->
+  <!-- Stablecoin Conversion Section -->
   <section class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
     <div>
-      <h3 class="text-4xl font-medium mb-6">Global Transfers</h3>
+      <h3 class="text-4xl font-medium mb-6">Stablecoin conversion</h3>
       <p class="text-xl text-gray-600 mb-8 leading-relaxed">
-        <strong class="text-black">Move money anywhere, instantly.</strong> Send international transfers in seconds, not days. Zero fees on wire transfers. Real-time settlement powered by stablecoin infrastructure.
+        <strong class="text-black">On/off-ramp at institutional rates.</strong> Convert between fiat currencies and stablecoins instantly. Access institutional-grade foreign exchange rates without the traditional banking markup.
       </p>
       <div class="flex flex-col gap-2">
         <a href="#" class="group inline-flex items-center text-black font-medium hover:opacity-70 transition-opacity">
@@ -120,12 +120,12 @@
     </div>
   </section>
 
-  <!-- Business Banking Section -->
+  <!-- Third-party Payouts Section -->
   <section class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
     <div>
-      <h3 class="text-4xl font-medium mb-6">Business Banking</h3>
+      <h3 class="text-4xl font-medium mb-6">Third-party payouts</h3>
       <p class="text-xl text-gray-600 mb-8 leading-relaxed">
-        <strong class="text-black">Built for modern businesses.</strong> Manage payroll, vendor payments, and treasury operations from one platform. Scale globally without the complexity of traditional business banking.
+        <strong class="text-black">Pay suppliers worldwide.</strong> Make payments to suppliers around the world using their local payment rails. Eliminate cross-border friction and settle in the currencies your partners prefer.
       </p>
       <div class="flex flex-col gap-2">
         <a href="#" class="group inline-flex items-center text-black font-medium hover:opacity-70 transition-opacity">

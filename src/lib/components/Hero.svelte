@@ -7,12 +7,12 @@
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
     <div>
       <h1 class="text-5xl md:text-6xl font-medium tracking-tight text-black leading-[1.1] mb-8">
-        Premium banking <br /> without the friction
+        Operate globally <br /> with ease
       </h1>
     </div>
     <div class="flex flex-col justify-end items-start lg:pl-12">
       <p class="text-xl text-gray-600 mb-6 max-w-md leading-relaxed">
-        Global banking access powered by stablecoin infrastructure. No traditional banking fees, no delays, no limitations.
+        Receive fiat payments, convert to stablecoins, and pay suppliers worldwide. Banking infrastructure built for businesses and individuals with global cash flows.
       </p>
       <a href="#" class="group inline-flex items-center text-black font-medium hover:opacity-70 transition-opacity">
         Open an Account

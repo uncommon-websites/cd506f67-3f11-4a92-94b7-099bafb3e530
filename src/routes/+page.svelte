@@ -10,14 +10,14 @@
 </script>
 
 <svelte:head>
-  <title>Select - Premium Banking Without the Friction</title>
-  <meta name="description" content="Select delivers premium banking services through stablecoin infrastructure, eliminating traditional banking friction and fees. Global banking access for high-net-worth individuals and businesses." />
-  <meta property="og:title" content="Select - Premium Banking Without the Friction" />
-  <meta property="og:description" content="Premium banking built on stablecoin infrastructure. No hidden fees, no delays, no geographic limitations." />
+  <title>Select - Operate Globally with Stablecoin Infrastructure</title>
+  <meta name="description" content="Select allows businesses and individuals to operate globally with ease through stablecoin infrastructure. Receive fiat payments, convert to stablecoins, and pay suppliers worldwide." />
+  <meta property="og:title" content="Select - Operate Globally with Stablecoin Infrastructure" />
+  <meta property="og:description" content="Receive fiat payments, convert to stablecoins at institutional rates, and pay suppliers worldwide using local rails. Powered by MoonPay." />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Select - Premium Banking Without the Friction" />
-  <meta name="twitter:description" content="Premium banking built on stablecoin infrastructure. No hidden fees, no delays, no geographic limitations." />
+  <meta name="twitter:title" content="Select - Operate Globally with Stablecoin Infrastructure" />
+  <meta name="twitter:description" content="Receive fiat payments, convert to stablecoins at institutional rates, and pay suppliers worldwide using local rails. Powered by MoonPay." />
 </svelte:head>
 
 <Header />
